@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCpLjvmEVR8chkRlvL5JLEhQ"
     - label: "Medium"
-      icon: "fab fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@aathith2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

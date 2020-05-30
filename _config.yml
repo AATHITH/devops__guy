@@ -64,7 +64,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aathith-rajendran/"
     - label: "YouTube"
-      icon: "<fabfa-youtube-square"
+      icon: "<fab fa-youtube-square"
       url: "https://www.youtube.com/channel/UCpLjvmEVR8chkRlvL5JLEhQ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
